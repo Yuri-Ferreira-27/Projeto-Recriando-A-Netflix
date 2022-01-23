@@ -41,7 +41,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/images/homem-aranha.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../images/homem-aranha.jpg');
 
     height:400px;
     background-size:cover;
